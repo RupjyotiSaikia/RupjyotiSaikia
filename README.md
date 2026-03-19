@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi 👋, I'm Rupjyoti Saikia
 
-<!--
-**RupjyotiSaikia/RupjyotiSaikia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Class 11 Science Student (AHSEC) from Nagaon, Assam, India
+💡 Passionate about Technology, Coding, and Artificial Intelligence
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning programming and AI
+- 💻 Interested in building games and applications
+- 🧠 Love creating science projects and models
+
+🏆 Achievements
+
+- 🥈 2nd Position – Nagaon District Level Science Model Competition
+- 🎓 Participated in a science event at IIT Guwahati (August 2024)
+
+🛠 Skills
+
+- Computer Basics
+- MS Word
+- Coding (Beginner)
+- AI (Beginner)
+- Communication
+
+🎯 Goal
+
+To become a successful engineer and build innovative technology solutions
